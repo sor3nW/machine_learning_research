@@ -1,0 +1,12 @@
+This will hold the basic things I learn about machine learning and for many of the key terms I will give a short description
+and then I will make a seperate file for more in depth research about those topics. 
+
+Machine learning is how a computer can be utlized using algorithms and methods to help a computer learn and complete one or more tasks. 
+It is sometimes confused with artificial intellegence. Machine learning is considered a part of artificial intellegence in some aspects
+and artificial intellegence can be also considered a part of machine learning.
+artificial intellegence is different than machine learning in that it interacts with the environment and learns based on input, whereas 
+machine learning is giving a computer sample information that it can use to train and then complete a task.
+
+machine learning waas the first idea for making a way for computers to learn. however, as artificial intellegence became more popular
+machine learning also grew. As more research was done on artificial intellence more methods were invented such as neural networks
+, inductive logic programming, and back propogation. 
