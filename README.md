@@ -1,1 +1,1 @@
-# macine_learning_research
+# machine_learning_research
