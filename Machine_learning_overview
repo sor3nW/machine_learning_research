@@ -14,3 +14,9 @@ machine learning also grew. As more research was done on artificial intellence m
 perceptron: the perceptron was a computer built by cornell for the office of naval research. the perceptron algorithm takes in a real value vector
 and outputs 0 or 1.
 
+machine learning tools:
+tensorflow 
+pandas
+numpy
+matplotlib
+seaborn
