@@ -10,3 +10,7 @@ machine learning is giving a computer sample information that it can use to trai
 machine learning waas the first idea for making a way for computers to learn. however, as artificial intellegence became more popular
 machine learning also grew. As more research was done on artificial intellence more methods were invented such as neural networks
 , inductive logic programming, and back propogation. 
+
+perceptron: the perceptron was a computer built by cornell for the office of naval research. the perceptron algorithm takes in a real value vector
+and outputs 0 or 1.
+
